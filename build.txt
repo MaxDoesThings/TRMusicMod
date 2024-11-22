@@ -1,0 +1,4 @@
+displayName = TerRoguelike: Metroid (Music) Edition
+author = MaxDoesThings
+version = 1.0
+modReferences = TerRoguelike
