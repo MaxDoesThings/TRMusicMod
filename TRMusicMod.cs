@@ -8,7 +8,7 @@ namespace TRMusicMod
 	{
         public override void PostSetupContent()
         {
-            MusicSystem.MusicDict.Add("TRMusicMod/Tracks/thepainfulway", ModContent.Request<SoundEffect>("TRMusicMod/Tracks/thepainfulway"));
+            // MusicSystem.MusicDict.Add("Path/To/Your/Song", ModContent.Request<SoundEffect>("Path/To/Your/Song"));
 
             MusicSystem.ForestTheme = new(
                 "TRMusicMod/Tracks/BaseThemeCalm",
