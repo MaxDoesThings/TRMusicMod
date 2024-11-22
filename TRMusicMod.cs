@@ -47,7 +47,8 @@ namespace TRMusicMod
             //
             // MusicSystem.InsertMiscThemesName = "YourModName/OtherFolders/YourMiscSongName";
             //
-            // As a small example in this example mod, I have swapped the two starting area's themes, The Forest and The Base (catacombs? something idk), So you'll here the base music in the forest, and the forest music in the base floor.
+            // As a small example in this example mod, I have swapped the two starting area's themes, The Forest and The Base (catacombs? something idk).
+            // Meaning, you'll hear the base music in the forest, and the forest music in the base floor.
 
             MusicSystem.ForestTheme = new(
                 "TerRoguelike/Tracks/BaseThemeCalm",
